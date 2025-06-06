@@ -31,8 +31,8 @@ To address class imbalance, the **four smallest classes** (`akiec`, `bcc`, `df`,
 
 ### Class Distribution Before and After
 <p align="center">
-  <img src="before.png" alt="Before Augmentation" width="45%" />
-  <img src="after.png" alt="After Augmentation and Undersampling" width="45%" />
+  <img src="Before.png" alt="Before Augmentation" width="45%" />
+  <img src="After.png" alt="After Augmentation and Undersampling" width="45%" />
 </p>
 
 > All images were resized to **224×224** pixels.
